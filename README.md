@@ -1,10 +1,10 @@
 # PLACEHOLDER
 [Google Play] - [Issues]
 
-_Basic compass._
+_Basic attendance-taking app._
 
-[Google Play]: https://play.google.com/store/apps/details?id=com.metaist.PLACEHOLDER
-[Issues]: https://github.com/30Apps30Days/00-PLACEHOLDER/issues
+[Google Play]: https://play.google.com/store/apps/details?id=com.metaist.attend
+[Issues]: https://github.com/30Apps30Days/05-attend/issues
 
 ## Build & Run
 ```bash
